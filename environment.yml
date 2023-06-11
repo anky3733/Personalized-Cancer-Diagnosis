@@ -1,0 +1,15 @@
+name: my_environment
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+  - regex
+  - numpy
+  - nltk
+  - scikit-learn
+  - seaborn
+  - imbalanced-learn
+  - scipy
+  - imblearn
+  - mlxtend
