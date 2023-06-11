@@ -39,23 +39,26 @@ Multi class log-loss
 Confusion matrix
 
 
-### conda env create -f environment.yml
+### Code Execution
+• Create the Environment
+
+#### conda env create -f environment.yml
 
 Activate the environment :
 
 For Windows:
 
-### conda activate my_environment
+#### conda activate my_environment
 
 For macOS and Linux:
 
-### source activate my_environment
+#### source activate my_environment
 
 Then run the notebooks available in the directory
 
 • Install the packages directly using 
 
-### pip install requirements.txt
+#### pip install requirements.txt
 
 Then run the notebooks available in the directory
 
